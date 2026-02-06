@@ -1,6 +1,6 @@
 ## Olá, eu sou Pedro Lucas 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedr0mell0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-lucas-1b4534285) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedrolucasprfn@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/pedr0mell0](https://www.instagram.com/ledro_pucass/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-lucas-1b4534285) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedrolucasprfn@gmail.com) 
 
 ## 💫 Sobre mim:
 Atualmente, curso Engenharia da Computação na Universidade de Sorocaba (Uniso) e, paralelamente, sigo me aprimorando por meio de cursos e certificações. Possuo certificação em Desenvolvimento Front-End pela Meta, com uma base sólida em HTML, CSS e JavaScript, além de experiência com frameworks e bibliotecas modernas, como React.
